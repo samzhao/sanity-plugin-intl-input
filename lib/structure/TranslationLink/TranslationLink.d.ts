@@ -1,5 +1,5 @@
-import * as React from 'react';
-import { ILanguageObject, Ti18nSchema } from '../../types';
+import * as React from "react";
+import { ILanguageObject, Ti18nSchema } from "../../types";
 interface IProps {
     docId: string;
     index: number;
